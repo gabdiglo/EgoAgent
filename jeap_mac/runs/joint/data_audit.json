@@ -1,0 +1,25 @@
+{
+  "train": {
+    "clips": 82,
+    "takes": [
+      "2447f4b8-f307-4f04-a2f0-f96f8b4bab64",
+      "86328ff7-bd1d-4125-ba08-d11ab3acf465"
+    ],
+    "unique_frames": 106,
+    "fps": 30,
+    "frame_gap": 3,
+    "clip_steps": 3,
+    "overlapping_clips": true
+  },
+  "val": {
+    "clips": 128,
+    "takes": [
+      "1b4585b3-3717-4b1c-bacc-a8240ac91926"
+    ],
+    "unique_frames": 194,
+    "fps": 30,
+    "frame_gap": 3,
+    "clip_steps": 3,
+    "overlapping_clips": true
+  }
+}

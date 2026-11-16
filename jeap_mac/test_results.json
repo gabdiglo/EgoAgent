@@ -1,0 +1,20 @@
+{
+  "test_type": "synthetic architectural checks; not scientific performance",
+  "official_backbone_class": "InternLMModel",
+  "trainable_parameters": 572915,
+  "total_parameters_including_observer": 1118259,
+  "checks": [
+    "action-query causality",
+    "action-conditioned state",
+    "no future-image leakage",
+    "observer stop-gradient",
+    "backbone/action gradients",
+    "exact EMA update",
+    "checkpoint round trip"
+  ],
+  "synthetic_losses": {
+    "representation": 4.209627628326416,
+    "prediction": 4.2119293212890625,
+    "action": 0.7963597178459167
+  }
+}

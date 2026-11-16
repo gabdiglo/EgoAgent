@@ -1,0 +1,70 @@
+[
+  {
+    "first_frame": 3,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 6,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 9,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 18,
+    "reason": "'24'"
+  },
+  {
+    "first_frame": 21,
+    "reason": "'24'"
+  },
+  {
+    "first_frame": 27,
+    "reason": "'33'"
+  },
+  {
+    "first_frame": 30,
+    "reason": "'33'"
+  },
+  {
+    "first_frame": 72,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 75,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 78,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 81,
+    "reason": "'84'"
+  },
+  {
+    "first_frame": 138,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 141,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 144,
+    "reason": "Expected one annotated wearer"
+  },
+  {
+    "first_frame": 147,
+    "reason": "[Errno 2] No such file or directory: '/Users/gabrielladigloria/Documents/Codex/2026-09-09/dof/work/joint_data/2447f4b8-f307-4f04-a2f0-f96f8b4bab64/frame_0000156.jpg'"
+  },
+  {
+    "first_frame": 150,
+    "reason": "[Errno 2] No such file or directory: '/Users/gabrielladigloria/Documents/Codex/2026-09-09/dof/work/joint_data/2447f4b8-f307-4f04-a2f0-f96f8b4bab64/frame_0000156.jpg'"
+  },
+  {
+    "first_frame": 153,
+    "reason": "[Errno 2] No such file or directory: '/Users/gabrielladigloria/Documents/Codex/2026-09-09/dof/work/joint_data/2447f4b8-f307-4f04-a2f0-f96f8b4bab64/frame_0000156.jpg'"
+  }
+]

@@ -1,0 +1,14 @@
+transformers<4.30.0
+sentencepiece
+numpy
+tqdm
+psutil
+packaging
+pre-commit
+ninja
+gputil
+pytest
+packaging
+boto3
+botocore
+pyecharts

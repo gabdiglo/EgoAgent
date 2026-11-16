@@ -1,0 +1,14 @@
+{
+  "implemented": "mini JEAP using official InternLMModel",
+  "joint_real_data_training_completed": true,
+  "synthetic_architecture_tests_passed": true,
+  "synthetic_training_and_evaluation_integration_passed": true,
+  "frame_extraction_numbering_test_passed": true,
+  "real_image_visual_only_probe_completed": true,
+  "download_attempt": {
+    "result": "success",
+    "videos_downloaded": 3
+  },
+  "official_EgoAgent_commit": "99a3c4a1625689db64bda9b4c408af4e5738e53f",
+  "evaluation": "runs/joint/evaluation.json"
+}

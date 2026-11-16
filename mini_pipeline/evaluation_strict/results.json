@@ -1,0 +1,33 @@
+{
+  "baseline_cosine": 0.725514501276561,
+  "model_cosine": 0.731793743549344,
+  "baseline_mse": 0.002144418253900424,
+  "model_mse": 0.002095361677049921,
+  "cosine_improvement": 0.006279242272782981,
+  "mse_improvement": 4.905657685050314e-05,
+  "num_csv_pairs": 10489,
+  "num_selected_pairs": 10489,
+  "num_evaluated_pairs": 8701,
+  "num_excluded_pairs": 1788,
+  "num_invalid_frames": 1253,
+  "num_unique_frames": 10497,
+  "full_test": true,
+  "device": "cpu",
+  "image_size": 160,
+  "emb_dim": 256,
+  "batch_size": 16,
+  "cpu_threads": 4,
+  "decode_threads": 4,
+  "evaluation_seconds": 894.2061448339991,
+  "torch_version": "2.12.1",
+  "precision": "float32",
+  "strict_image_decode": true,
+  "replacement_of_bad_pairs": false,
+  "test_csv_sha256": "1af855eee5f6b8ca7a3a93784ce762d70f7eca8431cada47f6f0bd48ba8cb832",
+  "encoder_sha256": "7ce516e68362c535304f0fe920c055ed53e58f471cf64edb7d83956673e3464a",
+  "predictor_sha256": "d13b9e9473198cd388362f35f7b784dc76bd20612eed7d554140efa57b2c196c",
+  "videos": [
+    "Walking_Tour_Bangkok"
+  ],
+  "cosine_win_fraction": 0.5068382944489139
+}

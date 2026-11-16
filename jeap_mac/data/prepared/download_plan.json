@@ -1,0 +1,35 @@
+[
+  {
+    "uid": "2447f4b8-f307-4f04-a2f0-f96f8b4bab64",
+    "split": "train",
+    "source_path": "s3://ego4d-cmu/egoexo-public/v2/downscaled_takes/448/cmu_soccer03_3/frame_aligned_videos/aria01_214-1.mp4",
+    "relative_path": "takes/cmu_soccer03_3/frame_aligned_videos/downscaled/448/aria01_214-1.mp4",
+    "views": null,
+    "universities": null,
+    "file_type": "mp4",
+    "size": 367502,
+    "checksum": null
+  },
+  {
+    "uid": "86328ff7-bd1d-4125-ba08-d11ab3acf465",
+    "split": "train",
+    "source_path": "s3://ego4d-sfu/egoexo-public/v2/downscaled_takes/448/sfu_basketball_11_44/frame_aligned_videos/aria01_214-1.mp4",
+    "relative_path": "takes/sfu_basketball_11_44/frame_aligned_videos/downscaled/448/aria01_214-1.mp4",
+    "views": null,
+    "universities": null,
+    "file_type": "mp4",
+    "size": 452808,
+    "checksum": null
+  },
+  {
+    "uid": "1b4585b3-3717-4b1c-bacc-a8240ac91926",
+    "split": "val",
+    "source_path": "s3://ego4d-georgiatech/egoexo-public/v2/downscaled_takes/448/georgiatech_bike_06_8/frame_aligned_videos/aria05_214-1.mp4",
+    "relative_path": "takes/georgiatech_bike_06_8/frame_aligned_videos/downscaled/448/aria05_214-1.mp4",
+    "views": null,
+    "universities": null,
+    "file_type": "mp4",
+    "size": 1859492,
+    "checksum": null
+  }
+]

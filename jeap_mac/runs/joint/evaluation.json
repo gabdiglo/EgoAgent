@@ -1,0 +1,10 @@
+{
+  "evaluation": "local mini-JEAP; not the original paper retrieval benchmark",
+  "state_embedding": "DINO-head logits",
+  "states": 384,
+  "visible_joint_comparisons": 4333.0,
+  "state_cosine": 0.19835478998720646,
+  "persistence_state_cosine": 0.9985013666252295,
+  "MPJPE_cm": 28.506194805125016,
+  "persistence_MPJPE_cm": 5.05543606896998
+}

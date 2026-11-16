@@ -1,0 +1,8 @@
+{
+  "repo": "internlm/internlm-7b",
+  "revision": "96e127d08d851a88cac736a9b091dd953ae1b873",
+  "files_sha256": {
+    "configuration_internlm.py": "d5cf9cab0e6d11972d9735949e69d5fd62376b188899366bd363e1985b52d6a9",
+    "modeling_internlm.py": "1eef33dc13ae44dae46f47d5f1d543537b6204cda721e6718c315281b26e1dfd"
+  }
+}

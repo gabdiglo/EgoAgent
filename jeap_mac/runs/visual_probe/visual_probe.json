@@ -1,0 +1,261 @@
+{
+  "mode": "real WalkingTours training images, visual objectives only; NOT joint JEAP training or scientific evaluation",
+  "steps": 20,
+  "pairs": 16,
+  "seconds": 0.8877099159944919,
+  "device": "cpu",
+  "history": [
+    {
+      "step": 1,
+      "representation": 3.2541353702545166,
+      "prediction": 4.4429192543029785,
+      "action": 0.0
+    },
+    {
+      "step": 2,
+      "representation": 4.328378200531006,
+      "prediction": 4.287715435028076,
+      "action": 0.0
+    },
+    {
+      "step": 3,
+      "representation": 3.6715314388275146,
+      "prediction": 3.915046215057373,
+      "action": 0.0
+    },
+    {
+      "step": 4,
+      "representation": 4.8339524269104,
+      "prediction": 4.507535457611084,
+      "action": 0.0
+    },
+    {
+      "step": 5,
+      "representation": 4.532607555389404,
+      "prediction": 3.9553394317626953,
+      "action": 0.0
+    },
+    {
+      "step": 6,
+      "representation": 4.1654767990112305,
+      "prediction": 4.82565450668335,
+      "action": 0.0
+    },
+    {
+      "step": 7,
+      "representation": 4.704083442687988,
+      "prediction": 4.623653888702393,
+      "action": 0.0
+    },
+    {
+      "step": 8,
+      "representation": 4.473716735839844,
+      "prediction": 4.318449974060059,
+      "action": 0.0
+    },
+    {
+      "step": 9,
+      "representation": 4.553985595703125,
+      "prediction": 4.144594192504883,
+      "action": 0.0
+    },
+    {
+      "step": 10,
+      "representation": 4.916194438934326,
+      "prediction": 4.479120254516602,
+      "action": 0.0
+    },
+    {
+      "step": 11,
+      "representation": 4.27705717086792,
+      "prediction": 4.3093485832214355,
+      "action": 0.0
+    },
+    {
+      "step": 12,
+      "representation": 4.335144996643066,
+      "prediction": 4.526676654815674,
+      "action": 0.0
+    },
+    {
+      "step": 13,
+      "representation": 4.535897731781006,
+      "prediction": 4.379205703735352,
+      "action": 0.0
+    },
+    {
+      "step": 14,
+      "representation": 4.995611190795898,
+      "prediction": 4.597395896911621,
+      "action": 0.0
+    },
+    {
+      "step": 15,
+      "representation": 4.514823913574219,
+      "prediction": 4.594813823699951,
+      "action": 0.0
+    },
+    {
+      "step": 16,
+      "representation": 3.65214467048645,
+      "prediction": 3.7441322803497314,
+      "action": 0.0
+    },
+    {
+      "step": 17,
+      "representation": 4.906675338745117,
+      "prediction": 4.75189208984375,
+      "action": 0.0
+    },
+    {
+      "step": 18,
+      "representation": 4.304138660430908,
+      "prediction": 4.432036399841309,
+      "action": 0.0
+    },
+    {
+      "step": 19,
+      "representation": 4.391371726989746,
+      "prediction": 4.641378879547119,
+      "action": 0.0
+    },
+    {
+      "step": 20,
+      "representation": 4.033092498779297,
+      "prediction": 4.162554740905762,
+      "action": 0.0
+    }
+  ],
+  "selected_pairs": [
+    {
+      "video": "Walking_Tour_Venice",
+      "current_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0004260.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0004265.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Singapore",
+      "current_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0001222.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0001227.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Venice",
+      "current_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0003001.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0003006.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Singapore",
+      "current_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0002070.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0002075.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Wildlife",
+      "current_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0001606.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0001611.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Chiang_Mai",
+      "current_frame": "data/WTour/Walking_Tour_Chiang_Mai_frames_1fps/frame_0000610.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Chiang_Mai_frames_1fps/frame_0000615.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Singapore",
+      "current_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0001106.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0001111.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Wildlife",
+      "current_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0003201.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0003206.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Singapore",
+      "current_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0002791.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0002796.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Chiang_Mai",
+      "current_frame": "data/WTour/Walking_Tour_Chiang_Mai_frames_1fps/frame_0002211.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Chiang_Mai_frames_1fps/frame_0002216.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Istanbul",
+      "current_frame": "data/WTour/Walking_Tour_Istanbul_frames_1fps/frame_0002282.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Istanbul_frames_1fps/frame_0002287.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Wildlife",
+      "current_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0001746.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0001751.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Wildlife",
+      "current_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0003277.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Wildlife_frames_1fps/frame_0003282.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Venice",
+      "current_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0005625.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0005630.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Venice",
+      "current_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0000926.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Venice_frames_1fps/frame_0000931.jpg",
+      "gap_seconds": "5"
+    },
+    {
+      "video": "Walking_Tour_Istanbul",
+      "current_frame": "data/WTour/Walking_Tour_Istanbul_frames_1fps/frame_0003201.jpg",
+      "future_frame": "data/WTour/Walking_Tour_Istanbul_frames_1fps/frame_0003206.jpg",
+      "gap_seconds": "5"
+    }
+  ],
+  "unreadable": [
+    {
+      "row": 10342,
+      "error": "cannot identify image file '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Venice_frames_1fps/frame_0002293.jpg'"
+    },
+    {
+      "row": 25578,
+      "error": "cannot identify image file '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Chiang_Mai_frames_1fps/frame_0003012.jpg'"
+    },
+    {
+      "row": 16291,
+      "error": "[Errno 22] Invalid argument: '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Kuala_Lumpur_frames_1fps/frame_0001680.jpg'"
+    },
+    {
+      "row": 31382,
+      "error": "[Errno 2] No such file or directory: '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0004746.jpg'"
+    },
+    {
+      "row": 32011,
+      "error": "[Errno 2] No such file or directory: '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Singapore_frames_1fps/frame_0005375.jpg'"
+    },
+    {
+      "row": 5301,
+      "error": "[Errno 22] Invalid argument: '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Stockholm_frames_1fps/frame_0001237.jpg'"
+    },
+    {
+      "row": 5819,
+      "error": "[Errno 22] Invalid argument: '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Stockholm_frames_1fps/frame_0001755.jpg'"
+    },
+    {
+      "row": 14766,
+      "error": "[Errno 22] Invalid argument: '/Users/gabrielladigloria/Documents/EgoAgent-1/data/WTour/Walking_Tour_Kuala_Lumpur_frames_1fps/frame_0000126.jpg'"
+    }
+  ]
+}

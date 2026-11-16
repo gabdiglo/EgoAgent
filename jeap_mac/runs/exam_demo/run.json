@@ -1,0 +1,24 @@
+{
+  "configuration": {
+    "image_size": 64,
+    "patch_size": 16,
+    "hidden_size": 128,
+    "intermediate_size": 352,
+    "layers": 2,
+    "heads": 4,
+    "prototypes": 256,
+    "bottleneck": 64,
+    "joints": 17,
+    "ema": 0.996,
+    "center_momentum": 0.9,
+    "student_temperature": 0.1,
+    "teacher_temperature": 0.04
+  },
+  "device": "cpu",
+  "seconds": 3.217219916987233,
+  "train_clips": 82,
+  "val_clips": 128,
+  "epochs": 1,
+  "seed": 42,
+  "training_mode": "joint_real_RGB_3D_pose"
+}

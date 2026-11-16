@@ -1,0 +1,9 @@
+{
+  "num_test_samples": 10489,
+  "baseline_cosine": 0.7257012380341213,
+  "model_cosine": 0.7317563641661172,
+  "baseline_mse": 0.002142959374856788,
+  "model_mse": 0.002095653673410004,
+  "cosine_improvement": 0.0060551261319958805,
+  "mse_improvement": 4.7305701446783994e-05
+}
